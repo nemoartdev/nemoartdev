@@ -24,7 +24,7 @@ I am a developer and informatics engineer.
 <img alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </div>
 
-<br><br><br>
+<br><br>
 <a href="https://github.com/nemoartdev">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nemoartdev&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemoartdev&layout=compact&langs_count=7&theme=gotham"/>
